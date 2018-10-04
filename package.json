@@ -1,0 +1,17 @@
+{
+  "name": "send-csv-to-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CSV"
+  ],
+  "author": "Nelson Campos",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
